@@ -1,0 +1,39 @@
+.my-sec{
+    background-image: url('../images/hero_1.jpg');
+    background-repeat: no-repeat;
+    height: 200px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.my-sec-inner{
+    
+    /* opacity: 0.5; */
+    color: white;
+    background:linear-gradient(red,pink) ;
+    
+}
+
+.icons {
+    list-style-type: none;
+    
+
+
+}
+.icons li{
+
+    display: inline-block;
+    background-color: white;
+    color:red;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin-right: 10px;
+
+}
+
+.ab a:hover{
+    /* font-family: 'Times New Roman', Times, serif; */
+    background-color  : red  ;
+    
+}
+
